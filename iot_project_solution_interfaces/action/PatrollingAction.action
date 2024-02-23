@@ -1,0 +1,7 @@
+geometry_msgs/Point[] targets
+int32 drone_id
+---
+string success
+---
+geometry_msgs/Point position
+string progress
